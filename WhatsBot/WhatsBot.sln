@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "WhatsBot", "WhatsBot\WhatsBot.jsproj", "{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|ARM.Build.0 = Debug|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x64.ActiveCfg = Debug|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x64.Build.0 = Debug|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x64.Deploy.0 = Debug|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x86.ActiveCfg = Debug|x86
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x86.Build.0 = Debug|x86
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Debug|x86.Deploy.0 = Debug|x86
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|ARM.ActiveCfg = Release|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|ARM.Build.0 = Release|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|ARM.Deploy.0 = Release|ARM
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x64.ActiveCfg = Release|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x64.Build.0 = Release|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x64.Deploy.0 = Release|x64
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x86.ActiveCfg = Release|x86
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x86.Build.0 = Release|x86
+		{67D4DA68-A1F5-4CA3-84D6-E3B4BEF1089F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
