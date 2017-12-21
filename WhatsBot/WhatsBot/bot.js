@@ -1,5 +1,5 @@
 ﻿// ==UserScript==
-// @name         New Userscript
+// @name         What's Bot
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the world!
@@ -12,5 +12,5 @@
 // ==/UserScript==
 
 $(document).ready(function () {
-
+    console.log("Hallo Welt");
 });
